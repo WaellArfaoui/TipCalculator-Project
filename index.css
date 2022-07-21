@@ -1,0 +1,109 @@
+body {
+    background-color: blanchedalmond;
+}
+
+
+.container {
+    border-radius: 6%;
+    background-color: rgb(39, 35, 35);
+    width: 40%;
+    height: 816px;
+    margin: -47px auto;
+}
+.container1 {
+    margin-top: 101px;
+}
+.titl {
+    color: white;
+    padding-left: 171px;
+    font-size: 61px;
+    font-family: cursive;
+    padding-top: 68px;
+}
+input {
+    display: block;
+    margin: 10px auto;
+    width: 70%;
+    height: 50px;
+    border-radius: 4%;
+    font-size: 33px;
+    font-family: sans-serif;
+    color: rgb(47, 45, 45);
+}
+.label1 {
+    text-align: center;
+    color: beige;
+    padding-top: 102px;
+    padding-bottom: 9px;
+    margin-right: 365px;
+    font-size: xx-large;
+    font-family: monospace;
+    margin-top: -12px;
+}
+
+.label2 {
+    text-align: center;
+    padding-right: 460px;
+    padding-top: 12px;
+    padding-bottom: 6px;
+    color: beige;
+    font-size: xx-large;
+    font-family: monospace;
+}
+.people {
+    color: rgb(189, 164, 164);
+    padding-left: 73px;
+    padding-top: 87px;
+    font-size: 38px;
+    font-weight: 100;
+    display: inline-block;
+    font-family: monospace;
+
+}
+.total {
+    color: #bda4a4;
+    padding-left: 158px;
+    padding-top: 55px;
+    font-size: 38px;
+    font-weight: 100;
+    display: inline-block;
+    font-family: monospace;
+}
+.mines {
+    display: inline-block;
+    margin-left: 46px;
+    margin-top: 27px;
+    height: 50px;
+    width: 54px;
+    border-radius: 53%;
+    text-align: center;
+    font-size: 38px;
+    padding-left: 6px;
+    background-color: aqua;
+}
+.plus {
+    display: inline-block;
+    margin-left: 27px;
+    margin-top: 23px;
+    height: 50px;
+    width: 54px;
+    border-radius: 53%;
+    text-align: center;
+    font-size: 34px;
+    background-color: aqua;
+}
+.numb {
+    display: inline-block;
+    color: white;
+    font-size: 45px;
+    padding-left: 19px; 
+}
+.tot-person {
+    display: inline-block;
+    padding-left: 254px;
+    padding-top: 15px;
+    color: white;
+    font-size: 46px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
